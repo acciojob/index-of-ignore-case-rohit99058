@@ -1,11 +1,11 @@
-function indexOfIgnoreCase(s1, s2){
+function indexOfIgnoreCase(s1, s2) {
+  // write your code here
 
 	let idx = s1.toLowerCase().indexof(s2.toLowerCase())
 	return idx
 }
-}
 	
-}
+
 
 // Please do not change the code below
 const s1 = prompt("Enter s1:");
